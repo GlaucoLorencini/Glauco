@@ -1,4 +1,5 @@
 # Glauco
-
-
- 	https://github-readme-stats.vercel.app/api?username={Glauco}&theme=blue-green
+🌳 - environmental engineer
+🔬 - specializing in environmental micro biology
+👜 - e commerce
+💻 - learning Power BI/Python
